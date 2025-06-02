@@ -2,6 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 <h1 align="left">Hey there 👋 my name is Wisdom Oyatokun </h1>
+
 ###
 
 <div align="center">
@@ -49,7 +50,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsd![js-java-script](https://github.com/user-attachments/assets/41c7583b-b720-47de-bae0-2006e19e5dca)
+elivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /![js-java-script](https://github.com/user-attachments/assets/c08672e1-b95d-45aa-a888-845d287f34f4)
+>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
   <img width="12" />
