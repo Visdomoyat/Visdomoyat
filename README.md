@@ -70,7 +70,7 @@ elivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-![Visdomoyat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Visdomoyat&show_icons=true&theme=radical&v=1)
+[![Visdomoyat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Visdomoyat&show_icons=true&theme=radical&v=1)](https://github-readme-stats.vercel.app/api?username=Visdomoyat&show_icons=true&theme=radical)
 
 
 ###
