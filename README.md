@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm a passionate Full-Stack Developer based in the United States(US). I love building modern, scalable web applications that make an impact. Whether it's crafting engaging front-end experiences or designing robust back-end systems, I'm always excited to bring ideas to life through code.<br><br>- 🔭 I’m currently working on Inventory management and game projects, but I am looking to collaborate on any Full Stack development projects<br>- 📚 I'm actively learning typescript, superbase, and tailwind CSS<br>- ⚡ In my free time, I enjoy reading finance books, exploring new educational ideas that can help solve problems</p>
+<p align="left">I'm a passionate Full-Stack Developer based in the United States(US). I love building modern, scalable web applications that make an impact. Whether it's crafting engaging front-end experiences or designing robust back-end systems, I'm always excited to bring ideas to life through code.<br><br>- 🔭 - 📚 I'm actively learning Typescript, Superbase, and Tailwind CSS<br>- ⚡ In my free time, I enjoy reading finance books, exploring new educational ideas that can help solve problems</p>
 
 ###
 
