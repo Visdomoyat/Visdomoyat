@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">## Hi there 👋
+<p align="left"> Hi there 👋
 
 I'm a passionate **Full-Stack Developer** based in the United States. I enjoy building modern, scalable, and user-focused web applications that solve real-world problems. From designing intuitive front-end experiences to developing secure back-end systems and APIs, I love turning ideas into reliable software.
 
