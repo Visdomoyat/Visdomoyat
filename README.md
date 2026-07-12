@@ -21,7 +21,18 @@
 
 ###
 
-<p align="left">I'm a passionate Full-Stack Developer based in the United States(US). I love building modern, scalable web applications that make an impact. Whether it's crafting engaging front-end experiences or designing robust back-end systems, I'm always excited to bring ideas to life through code.<br><br>- 🔭 - 📚 I'm actively learning Typescript, Superbase, and Tailwind CSS<br>- ⚡ In my free time, I enjoy reading finance books, exploring new educational ideas that can help solve problems</p>
+<p align="left">## Hi there 👋
+
+I'm a passionate **Full-Stack Developer** based in the United States. I enjoy building modern, scalable, and user-focused web applications that solve real-world problems. From designing intuitive front-end experiences to developing secure back-end systems and APIs, I love turning ideas into reliable software.
+
+I'm always learning new technologies and best practices to grow as an engineer and deliver better solutions.
+
+* 💻 Building full-stack applications with **React, Django, Node.js, PostgreSQL, and REST APIs**
+* 🌱 Currently expanding my skills in **TypeScript, Supabase, AWS, and Tailwind CSS**
+* 🚀 Interested in web development, SaaS products, business automation, and cloud technologies
+* 🤝 Open to collaborating on open-source projects and innovative software solutions
+* 📚 In my free time, I enjoy reading finance and business books, exploring educational technology, and learning about systems that solve real-world problems.
+</p>
 
 ###
 
